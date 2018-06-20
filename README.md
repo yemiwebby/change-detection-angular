@@ -10,18 +10,18 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 A basic knowledge of JavaScript and Angular 
 
 
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
 ## Getting Started
 
 ### Clone the repository
 ```bash
-$ git clone https://github.com/yemiwebby/ember-realtime-graph.git
+$ git clone https://github.com/yemiwebby/change-detection-angular
 ```
 
 ### Change directory
 ```bash
-$ cd ember-realtime-graph
+$ cd change-detection-angular
 ```
+
+## Development server
+
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
